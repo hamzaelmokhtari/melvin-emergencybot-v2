@@ -1,6 +1,6 @@
 'use strict';
 
-exports.WIT_TOKEN = process.env.WIT_TOKEN;
-exports.FB_PAGE_ID = process.env.FB_PAGE_ID && Number(process.env.FB_PAGE_ID);
-exports.FB_PAGE_TOKEN = process.env.FB_PAGE_TOKEN;
-exports.FB_VERIFY_TOKEN = process.env.FB_VERIFY_TOKEN;
+exports.WIT_TOKEN = 'VAOJ4RQFBQP53F4KMHFY5GL3BRPC35T7';
+exports.FB_PAGE_ID = 603052163185827;
+exports.FB_PAGE_TOKEN = 'EAAIur90A0q4BAGiq0EgJgjiKrrr5mvhnWuDRdlbvOCtoFSHsT8QZCP6fawYbj2RUO3EpJWEyWZCO7ZCCsDBrKI7WPDlJvtf3q00DTeSKKVB2OXS74GE1aONqZAKxl6ISMrvL9OSvRUDoaZCdoc4KTzQv3dN6Vk9UdoD24PW16FgZDZD';
+exports.FB_VERIFY_TOKEN = 'hi';
